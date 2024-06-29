@@ -23,4 +23,4 @@ To view and edit this project locally, you need a web browser and a text editor.
    cd my-static-website
 
 2. Open the site to view on local machine
-3. I deployed the static website using Microsoft Azure and NGINX as the web server
+3. I deployed the static website using Microsoft Azure and NGINX 
